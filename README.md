@@ -5,7 +5,7 @@ The website implements a table booking system for Little Lemon, built using Reac
 
 ⚠️ Note: The only functional feature in this project is the "Reserve a Table" function. Other features are purely for design purposes.
 
-![Homepage Screenshot](public/imagehome.png)
+![Homepage Screenshot](public/imghome.png)
 
 
 Below are some screenshots showcasing the booking functionality of the application.
